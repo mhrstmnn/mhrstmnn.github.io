@@ -1,5 +1,5 @@
 ---
-title: "Dual Boot Probleme mit Windows 10"
+title: "Dual Boot Probleme mit Windows"
 description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>← zurück zur Startseite</a>"
 ---
 
