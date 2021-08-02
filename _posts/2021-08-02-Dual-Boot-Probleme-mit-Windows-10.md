@@ -1,10 +1,6 @@
 ---
 title: "Dual Boot Probleme mit Windows 10"
-description: "beschreibung"
-show_downloads: true
-github:
-  zip_url: http://example.com/download.zip
-  another_url: http://google.com
+description: "[Dual boot not working in windows 10](https://askubuntu.com/questions/893559/dual-boot-not-working-in-windows-10#893568)"
 ---
 
 *Im Code ist Ubuntu nur ein Platzhalter für die jeweilige Distribution*
