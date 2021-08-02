@@ -33,5 +33,5 @@ rmdir /S ubuntu
 
 ## Quellen
 
-- [Dual boot not working in windows 10](https://askubuntu.com/questions/893559/dual-boot-not-working-in-windows-10#893568)
-- [Uninstall GRUB and use Windows bootloader](https://askubuntu.com/questions/429610/uninstall-grub-and-use-windows-bootloader#869888)
+- <a href="https://askubuntu.com/questions/893559/dual-boot-not-working-in-windows-10#893568" target="blank">Dual boot not working in windows 10</a>
+- <a href="https://askubuntu.com/questions/429610/uninstall-grub-and-use-windows-bootloader#869888" target="blank">Uninstall GRUB and use Windows bootloader</a>
