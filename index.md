@@ -1,6 +1,9 @@
 ---
-title: "mhrstmnn"
+title: "@mhrstmnn"
+description: "Michael Horstmann"
 ---
+
+## Posts
 
 <ul>
   {% for post in site.posts %}
