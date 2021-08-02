@@ -8,7 +8,7 @@ description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoratio
 - mit `brew install gnupg pinentry-mac` installieren
 - gegebenenfalls `export GPG_TTY=$(tty)` in `~/.zshrc` ergänzen
 - Pinentry für GPG
-  - ist wie mit <a href="https://gpg4win.org" target="blank">Gpg4win und Kleopatra</a> unter Windows unter anderem ein grafisches Pop-Up zum Passwort eingeben, wenn man den PGP-Key verwendet
+  - ist wie mit <a href="https://gpg4win.org" target="blank">Gpg4win und Kleopatra</a> unter Windows unter anderem ein grafisches Pop-Up zum Passwort eingeben, wenn man den GPG-Key verwendet
   - kann das Passwort anschließend im macOS-Schlüsselbund sichern
   - muss aber noch aktiviert werden, dafür in der Datei `~/.gnupg/gpg-agent.conf` ergänzen: `pinentry-program /usr/local/bin/pinentry-mac`
 - Installation testen mit: `echo "test" | gpg --clearsign`
