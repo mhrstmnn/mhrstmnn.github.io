@@ -1,6 +1,6 @@
 ---
 title: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>@mhrstmnn</a>"
-description: "Michael Horstmann | <a href='https://horstmann-development.de' target='blank'>Horstmann Development →</a>"
+description: "Michael Horstmann | <a href='https://horstmann-development.de' target='blank' style='color: white; text-decoration: none;'>Horstmann Development →</a>"
 ---
 
 ## Posts
