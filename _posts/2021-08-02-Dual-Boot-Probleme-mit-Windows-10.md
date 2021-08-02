@@ -1,6 +1,6 @@
 ---
 title: "Dual Boot Probleme mit Windows 10"
-description: [Dual boot not working in windows 10](https://askubuntu.com/questions/893559/dual-boot-not-working-in-windows-10#893568)
+description: "<a href="#">test</a>"
 ---
 
 *Im Code ist Ubuntu nur ein Platzhalter für die jeweilige Distribution*
