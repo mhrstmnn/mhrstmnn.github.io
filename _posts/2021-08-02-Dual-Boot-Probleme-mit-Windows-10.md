@@ -1,6 +1,6 @@
 ---
 title: "Dual Boot Probleme mit Windows 10"
-description: '<a href="#">test</a>'
+description: '<a href="https://m.hrstmnn.de" style="color: white; text-decoration: none;">zurück</a>'
 ---
 
 *Im Code ist Ubuntu nur ein Platzhalter für die jeweilige Distribution*
