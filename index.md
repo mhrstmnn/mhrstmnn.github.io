@@ -1,5 +1,5 @@
 ---
-title: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>Michael Horstmann (@mhrstmnn)</a>"
+title: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>Michael Horstmann <br>@mhrstmnn</a>"
 description: "<a href='https://horstmann-development.de' target='blank' style='color: white; text-decoration: none;'>👨🏻‍💻 Horstmann Development →</a>"
 ---
 
