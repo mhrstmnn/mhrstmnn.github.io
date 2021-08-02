@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Dual Boot Probleme mit Windows 10"
+---
+
 # Dual Boot Probleme mit Windows 10
 
 *Im Code ist Ubuntu nur ein Platzhalter für die jeweilige Distribution*
