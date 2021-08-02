@@ -1,5 +1,5 @@
 ---
-title: "Dual Boot Probleme mit Windows beheben"
+title: "Probleme mit Dual Boot unter Windows beheben"
 description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>← zurück zur Startseite</a>"
 ---
 
