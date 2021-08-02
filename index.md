@@ -15,8 +15,8 @@ description: "Michael Horstmann"
 
 ## Links
 
-- [Horstmann Development](https://horstmann-development.de)
-- [Twitter](https://twitter.com/mhrstmnn)
+- <a href="https://horstmann-development.de" target="_blank">Horstmann Development</a>
+- <a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a>
 - [Spotify](https://open.spotify.com/user/m.horstmann)
 - [Threema](https://threema.id/ZA5C68WH)
 - [Instagram](https://www.instagram.com/mhrstmnn)
