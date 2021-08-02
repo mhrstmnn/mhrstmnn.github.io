@@ -1,5 +1,5 @@
 ---
-title: "Probleme mit Dual Boot unter Windows beheben"
+title: "Probleme mit Dual Boot beheben"
 description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>← zurück zur Startseite</a>"
 ---
 
@@ -8,14 +8,12 @@ description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoratio
 ## Bootloader hinzufügen
 
 Wenn das BIOS/UEFI den Grub-Bootloader nicht findet, kann dieser wie folgt angegeben werden:
-*Eingabeaufforderung als Administrator starten*
-```
-bcdedit /set {bootmgr} path \EFI\ubuntu\grubx64.efi
-```
+- Unter Windows Eingabeaufforderung als Administrator starten
+- `bcdedit /set {bootmgr} path \EFI\ubuntu\grubx64.efi`
 
-## Bootloader entfernen
+## Bootloader wieder entfernen
 
-*Eingabeaufforderung als Administrator starten*
+Unter Windows Eingabeaufforderung als Administrator starten
 ```
 diskpart
 list disk
