@@ -1,5 +1,5 @@
 ---
-title: "ARM emulieren"
+title: "ARM kompilieren und emulieren"
 description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>← zurück zur Startseite</a>"
 ---
 
