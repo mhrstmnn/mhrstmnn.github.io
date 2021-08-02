@@ -8,14 +8,14 @@ title: "Dual Boot Probleme mit Windows 10"
 
 Wenn das BIOS/UEFI den Grub-Bootloader nicht findet, kann dieser wie folgt angegeben werden:
 *Eingabeaufforderung als Administrator starten*
-```powershell
+```
 bcdedit /set {bootmgr} path \EFI\ubuntu\grubx64.efi
 ```
 
 ## Bootloader entfernen
 
 *Eingabeaufforderung als Administrator starten*
-```powershell
+```
 diskpart
 list disk
 sel disk (passende Nummer für Fesplatte)
