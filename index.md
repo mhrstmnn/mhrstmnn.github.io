@@ -22,7 +22,7 @@ description: "<a href='https://horstmann-development.de' target='blank' style='c
 - <a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a>
 - <a href="https://threema.id/ZA5C68WH" target="blank">Threema</a>
 
-**OpenPGP-Keys:**
+**OpenPGP-Keys**
   - <a href="https://keys.openpgp.org/search?q=mhorstmann%40posteo.de" target="blank">Posteo</a>
   - <a href="https://keys.openpgp.org/search?q=m%40hrstmnn.de" target="blank">m@hrstmnn</a>
   - <a href="https://keys.openpgp.org/search?q=michael%40horstmann-development.de" target="blank">Horstmann Development</a>
