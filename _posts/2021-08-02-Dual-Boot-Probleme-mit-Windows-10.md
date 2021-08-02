@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  "Dual Boot Probleme mit Windows 10"
+title:  "Test"
 ---
 
 # Dual Boot Probleme mit Windows 10
