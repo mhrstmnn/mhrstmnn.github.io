@@ -16,12 +16,12 @@ description: "Michael Horstmann"
 ## Links
 
 - [Horstmann Development](https://horstmann-development.de)
-Meine Threema-ID: 
 - [Twitter](https://twitter.com/mhrstmnn)
+- [Spotify](https://open.spotify.com/user/m.horstmann)
 - [Threema](https://threema.id/ZA5C68WH)
 - [Instagram](https://www.instagram.com/mhrstmnn)
-- [Spotify](https://open.spotify.com/user/m.horstmann)
 
-https://keys.openpgp.org/search?q=mhorstmann%40posteo.de
-https://keys.openpgp.org/search?q=m%40hrstmnn.de
-https://keys.openpgp.org/search?q=michael%40horstmann-development.de
+### OpenPGP-Keys
+- [Posteo](https://keys.openpgp.org/search?q=mhorstmann%40posteo.de)
+- [m@hrstmnn](https://keys.openpgp.org/search?q=m%40hrstmnn.de)
+- [Horstmann Development](https://keys.openpgp.org/search?q=michael%40horstmann-development.de)
