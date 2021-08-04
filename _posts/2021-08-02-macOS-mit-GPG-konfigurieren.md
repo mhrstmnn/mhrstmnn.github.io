@@ -1,6 +1,6 @@
 ---
 title: "macOS mit GPG konfigurieren"
-description: "<a href='https://m.hrstmnn.de' style='color: white; text-decoration: none;'>← zurück zur Startseite</a>"
+description: "<a href='https://m.hrstmnn.de'>← zurück zur Startseite</a>"
 ---
 
 ## GPG im Terminal benutzen
