@@ -1,6 +1,6 @@
 ---
 title: "ARM kompilieren und emulieren"
-description: "<a href='https://m.hrstmnn.de'>← zurück zur Startseite</a>"
+description: "<a href='https://github.hrstmnn.de'>← zurück zur Startseite</a>"
 ---
 
 ## GCC für ARM-Architektur
