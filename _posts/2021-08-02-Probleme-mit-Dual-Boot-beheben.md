@@ -1,6 +1,6 @@
 ---
 title: "Probleme mit Dual Boot beheben"
-description: "<a href='https://m.hrstmnn.de'>← zurück zur Startseite</a>"
+description: "<a href='https://github.hrstmnn.de'>← zurück zur Startseite</a>"
 ---
 
 *Im Code ist Ubuntu nur ein Platzhalter für die jeweilige Distribution*
