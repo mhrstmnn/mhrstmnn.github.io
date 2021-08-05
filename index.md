@@ -15,26 +15,26 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 
 ## Links
 
-<table>
+<table id="links">
   <tr>
-    <td>- <a href="https://github.com/mhrstmnn" target="blank">GitHub</a></td>
-    <td>- <a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></td>
+    <td><ul><li><a href="https://github.com/mhrstmnn" target="blank">GitHub</a></ul></li></td>
+    <td><ul><li><a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></ul></li></td>
   </tr>
   <tr>
-    <td>- <a href="https://open.spotify.com/user/m.horstmann" target="blank">Spotify</a></td>
-    <td>- <a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a></td>
+    <td><ul><li><a href="https://open.spotify.com/user/m.horstmann" target="blank">Spotify</a></ul></li></td>
+    <td><ul><li><a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a></ul></li></td>
   </tr>
   <tr>
-    <td>- <a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a></td>
-    <td>- <a href="https://threema.id/ZA5C68WH" target="blank">Threema</a></td>
+    <td><ul><li><a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a></ul></li></td>
+    <td><ul><li><a href="https://threema.id/ZA5C68WH" target="blank">Threema</a></ul></li></td>
   </tr>
   <tr>
-    <td>- <a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a></td>
-    <td>- <a href="https://t.me/mhrstmnn" target="blank">Telegram</a></td>
+    <td><ul><li><a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a></ul></li></td>
+    <td><ul><li><a href="https://t.me/mhrstmnn" target="blank">Telegram</a></ul></li></td>
   </tr>
   <tr>
-    <td>- <a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a></td>
-    <td>- <a href="mailto:m@hrstmnn.de" target="blank">Mail</a></td>
+    <td><ul><li><a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a></ul></li></td>
+    <td><ul><li><a href="mailto:m@hrstmnn.de" target="blank">Mail</a></ul></li></td>
   </tr>
 </table>
 
