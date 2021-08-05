@@ -15,7 +15,7 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 
 ## Links
 
-<table id="links">
+<table id="links-table">
   <tr>
     <td><ul><li><a href="https://github.com/mhrstmnn" target="blank">GitHub</a></li></ul></td>
     <td><ul><li><a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></li></ul></td>
