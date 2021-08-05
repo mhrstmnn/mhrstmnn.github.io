@@ -20,7 +20,7 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 - <a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a>
 - <a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a>
 - <a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a>
-- <a href="https://mhrstmnn.tumblr.com/" target="blank">Tumblr</a>
+- <a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a>
 - <a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a>
 - <a href="https://threema.id/ZA5C68WH" target="blank">Threema</a>
 - <a href="https://t.me/mhrstmnn" target="blank">Telegram</a>
