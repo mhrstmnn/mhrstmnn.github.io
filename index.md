@@ -43,3 +43,14 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
   - <a href="https://keys.openpgp.org/search?q=mhorstmann%40posteo.de" target="blank">Posteo</a>
   - <a href="https://keys.openpgp.org/search?q=m%40hrstmnn.de" target="blank">m@hrstmnn</a>
   - <a href="https://keys.openpgp.org/search?q=michael%40horstmann-development.de" target="blank">Horstmann Development</a>
+
+<script>
+  const content = document.querySelector("#content");
+  content.style.display = "inline-block";
+  var container = document.createElement("div");
+  container.style.display = "flex";
+  container.style.justifyContent = "center";
+  container.style.alignItems = "center";
+  container.appendChild(content);
+  document.body.appendChild(container);
+</script>
