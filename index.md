@@ -15,16 +15,28 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 
 ## Links
 
-- <a href="https://github.com/mhrstmnn" target="blank">GitHub</a>
-- <a href="https://open.spotify.com/user/m.horstmann" target="blank">Spotify</a>
-- <a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a>
-- <a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a>
-- <a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a>
-- <a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a>
-- <a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a>
-- <a href="https://threema.id/ZA5C68WH" target="blank">Threema</a>
-- <a href="https://t.me/mhrstmnn" target="blank">Telegram</a>
-- <a href="mailto:m@hrstmnn.de" target="blank">Mail</a>
+<table>
+  <tr>
+    <td>- <a href="https://github.com/mhrstmnn" target="blank">GitHub</a></td>
+    <td>- <a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></td>
+  </tr>
+  <tr>
+    <td>- <a href="https://open.spotify.com/user/m.horstmann" target="blank">Spotify</a></td>
+    <td>- <a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a></td>
+  </tr>
+  <tr>
+    <td>- <a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a></td>
+    <td>- <a href="https://threema.id/ZA5C68WH" target="blank">Threema</a></td>
+  </tr>
+  <tr>
+    <td>- <a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a></td>
+    <td>- <a href="https://t.me/mhrstmnn" target="blank">Telegram</a></td>
+  </tr>
+  <tr>
+    <td>- <a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a></td>
+    <td>- <a href="mailto:m@hrstmnn.de" target="blank">Mail</a></td>
+  </tr>
+</table>
 
 **OpenPGP-Keys**
   - <a href="https://keys.openpgp.org/search?q=mhorstmann%40posteo.de" target="blank">Posteo</a>
