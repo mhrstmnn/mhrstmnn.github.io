@@ -45,12 +45,14 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
   - <a href="https://keys.openpgp.org/search?q=michael%40horstmann-development.de" target="blank">Horstmann Development</a>
 
 <script>
-  const content = document.querySelector("#content");
-  content.style.display = "inline-block";
-  var container = document.createElement("div");
-  container.style.display = "flex";
-  container.style.justifyContent = "center";
-  container.style.alignItems = "center";
-  container.appendChild(content);
-  document.body.appendChild(container);
+  if (!(navigator.userAgent.indexOf("Mobi") > -1)) {
+    const content = document.querySelector("#content");
+    content.style.display = "inline-block";
+    var container = document.createElement("div");
+    container.style.display = "flex";
+    container.style.justifyContent = "center";
+    container.style.alignItems = "center";
+    container.appendChild(content);
+    document.body.appendChild(container);
+  }
 </script>
