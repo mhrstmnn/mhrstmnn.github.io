@@ -27,3 +27,10 @@
   document.documentElement.lang = "de";
   document.querySelector("meta[property='og:locale']").setAttribute("content", "de_DE");
 </script>
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
