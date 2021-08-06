@@ -22,9 +22,6 @@
   #links-table ul {
     margin-bottom: 0;
   }
-  .darkmode-toggle {
-    font-size: 130%;
-  }
 </style>
 <script>
   document.documentElement.lang = "de";
@@ -40,4 +37,9 @@
     new Darkmode(options).showWidget();
   }
   window.addEventListener('load', addDarkmodeWidget);
+  
+  if (!(navigator.userAgent.indexOf("Mobi") > -1)) {
+    const button = document.querySelector(".darkmode-toggle");
+    button.style.fontSize = "130%";
+  }
 </script>
