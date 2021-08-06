@@ -30,16 +30,16 @@
 <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
 <script>
   const options = {
-    label: '🌓'
+    label: "🌓"
   }
-
   function addDarkmodeWidget() {
     new Darkmode(options).showWidget();
   }
-  window.addEventListener('load', addDarkmodeWidget);
-  
+  window.addEventListener("load", addDarkmodeWidget);
+</script>
+<script>
   if (!(navigator.userAgent.indexOf("Mobi") > -1)) {
-    var button = document.querySelector(".darkmode-toggle");
-    button.style.fontSize = "130%";
+    const darkmodeButton = document.querySelector(".darkmode-toggle");
+    darkmodeButton.style.fontSize = "130%";
   }
 </script>
