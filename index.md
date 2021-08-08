@@ -46,6 +46,7 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 
 <script>
   if (!(navigator.userAgent.indexOf("Mobi") > -1)) {
+    // desktop
     const content = document.querySelector("#content");
     content.style.display = "inline-block";
     const container = document.createElement("div");
