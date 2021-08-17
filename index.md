@@ -18,22 +18,22 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 <table id="links-table">
   <tr>
     <td><ul><li><a href="https://github.com/mhrstmnn" target="blank">GitHub</a></li></ul></td>
-    <td><ul><li><a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></li></ul></td>
-  </tr>
-  <tr>
     <td><ul><li><a href="https://open.spotify.com/user/m.horstmann" target="blank">Spotify</a></li></ul></td>
-    <td><ul><li><a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a></li></ul></td>
   </tr>
   <tr>
     <td><ul><li><a href="https://twitter.com/mhrstmnn" target="blank">Twitter</a></li></ul></td>
-    <td><ul><li><a href="https://threema.id/ZA5C68WH" target="blank">Threema</a></li></ul></td>
-  </tr>
-  <tr>
     <td><ul><li><a href="https://www.reddit.com/u/mhrstmnn" target="blank">Reddit</a></li></ul></td>
-    <td><ul><li><a href="https://t.me/mhrstmnn" target="blank">Telegram</a></li></ul></td>
   </tr>
   <tr>
     <td><ul><li><a href="https://www.instagram.com/mhrstmnn" target="blank">Instagram</a></li></ul></td>
+    <td><ul><li><a href="https://tumblr.hrstmnn.de" target="blank">Tumblr</a></li></ul></td>
+  </tr>
+  <tr>
+    <td><ul><li><a href="https://unsplash.com/@mhrstmnn" target="blank">Unsplash</a></li></ul></td>
+    <td><ul><li><a href="https://threema.id/ZA5C68WH" target="blank">Threema</a></li></ul></td>
+  </tr>
+  <tr>
+    <td><ul><li><a href="https://t.me/mhrstmnn" target="blank">Telegram</a></li></ul></td>
     <td><ul><li><a href="mailto:m@hrstmnn.de" target="blank">Mail</a></li></ul></td>
   </tr>
 </table>
