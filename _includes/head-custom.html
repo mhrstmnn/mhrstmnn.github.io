@@ -23,22 +23,22 @@
     margin-bottom: 0;
   }
 </style>
-<script>
-  document.documentElement.lang = "de";
-  document.querySelector("meta[property='og:locale']").setAttribute("content", "de_DE");
-</script>
 <script src="https://static.hrstmnn.de/node_modules/darkmode-js/lib/darkmode-js.min.js"></script>
 <script src="https://static.hrstmnn.de/node_modules/ismobilejs/dist/isMobile.min.js"></script>
 <script>
-  var options = {
-    label: "🌓"
-  }
-  if (isMobile.phone) {
-    options.bottom = "15px";
-    options.right = "15px";
-  } else {
-    options.bottom = "20px";
-    options.right = "20px";
-  }
-  window.addEventListener("load", new Darkmode(options).showWidget());
+  document.addEventListener("DOMContentLoaded", function () {
+    document.documentElement.lang = "de";
+    document.querySelector("meta[property='og:locale']").setAttribute("content", "de_DE");
+    var options = {
+      label: "🌓"
+    }
+    if (isMobile.phone) {
+      options.bottom = "15px";
+      options.right = "15px";
+    } else {
+      options.bottom = "20px";
+      options.right = "20px";
+    }
+    window.addEventListener("load", new Darkmode(options).showWidget());
+  });
 </script>
