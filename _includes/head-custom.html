@@ -29,14 +29,15 @@
   document.addEventListener("DOMContentLoaded", function () {
     document.documentElement.lang = "de";
     document.querySelector("meta[property='og:locale']").setAttribute("content", "de_DE");
-    document.getElementById("content").style.paddingBottom = "100px";
     var options = {
       label: "🌓"
     }
     if (isMobile.phone) {
+      document.getElementById("content").style.paddingBottom = "80px";
       options.bottom = "15px";
       options.right = "15px";
     } else {
+      document.getElementById("content").style.paddingBottom = "100px";
       options.bottom = "20px";
       options.right = "20px";
     }
