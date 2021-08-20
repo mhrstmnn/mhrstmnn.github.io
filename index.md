@@ -43,7 +43,7 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 - <a href="https://go.hrstmnn.de" target="blank">YOURLS</a>
 - <a href="https://paste.hrstmnn.de" target="blank">Paste</a>
 - <a href="https://rss.hrstmnn.de" target="blank">FreshRSS</a>
-- <a href="https://static.hrstmnn.de" target="blank">static.hrstmnn.de</a>
+- <a href="https://static.hrstmnn.de" target="blank">Static Links</a>
 
 ### OpenPGP-Keys
 
