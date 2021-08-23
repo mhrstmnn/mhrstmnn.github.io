@@ -13,6 +13,14 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
   {% endfor %}
 </ul>
 
+## Sites
+
+- <a href="https://boilerplate.hrstmnn.de" target="blank">Boilerplate-Tool</a>
+- <a href="https://static.hrstmnn.de" target="blank">Static Links</a>
+- <a href="https://go.hrstmnn.de" target="blank">YOURLS</a>
+- <a href="https://paste.hrstmnn.de" target="blank">Paste</a>
+- <a href="https://rss.hrstmnn.de" target="blank">FreshRSS</a>
+
 ## Links
 
 <table id="links-table">
@@ -43,14 +51,6 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
 - <a href="https://keys.openpgp.org/search?q=mhorstmann%40posteo.de" target="blank">Posteo</a>
 - <a href="https://keys.openpgp.org/search?q=m%40hrstmnn.de" target="blank">m@hrstmnn</a>
 - <a href="https://keys.openpgp.org/search?q=michael%40horstmann-development.de" target="blank">Horstmann Development</a>
-
-## Sites
-
-- <a href="https://go.hrstmnn.de" target="blank">YOURLS</a>
-- <a href="https://paste.hrstmnn.de" target="blank">Paste</a>
-- <a href="https://rss.hrstmnn.de" target="blank">FreshRSS</a>
-- <a href="https://boilerplate.hrstmnn.de" target="blank">Boilerplate-Tool</a>
-- <a href="https://static.hrstmnn.de" target="blank">Static Links</a>
 
 <script>
   if (!isMobile.phone) {
