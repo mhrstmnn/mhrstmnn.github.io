@@ -62,13 +62,11 @@ description: "<a href='https://horstmann-development.de' target='blank' id='link
     container.style.alignItems = "center";
     container.appendChild(content);
     document.body.appendChild(container);
-    //setTimeout(() => {
-      for (let i = 0; i < document.getElementsByTagName("h2").length; i++) {
-        document.getElementsByTagName("h2")[i].style.textAlign = "center";
-      }
-      for (let i = 0; i < document.getElementsByTagName("h3").length; i++) {
-        document.getElementsByTagName("h3")[i].style.textAlign = "center";
-      }
-    //}, 0);
+    for (let i = 0; i < document.getElementsByTagName("h2").length; i++) {
+      document.getElementsByTagName("h2")[i].style.textAlign = "center";
+    }
+    for (let i = 0; i < document.getElementsByTagName("h3").length; i++) {
+      document.getElementsByTagName("h3")[i].style.textAlign = "center";
+    }
   }
 </script>
