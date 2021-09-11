@@ -1,3 +1,4 @@
-## Welcome to my GitHub page 👋🏻
+## Hi there 👋🏻
 
+Welcome to my GitHub page!
 You can visit my public profile [here](https://github.com/mhrstmnn).
